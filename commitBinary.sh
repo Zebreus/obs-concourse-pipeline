@@ -7,6 +7,7 @@ set -x # print commands
 
 #cd updated-gist
 #date > bumpme
+cd certificate-generator-binary
 
 git config --global user.email "lennart@madmanfred.com"
 git config --global user.name "build-bot"
